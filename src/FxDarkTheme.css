@@ -124,6 +124,9 @@ Original Dark Theme created by: Fx Morin
   opacity:.25!important;
   background-color: #3b3b3c!important; /* #f4f5f7 */
 }
+.page-type-split .tos-footer {
+    background: #2f2f2f!important; /* #fff */
+}
 .aui-iconfont-appswitcher { /* Invert app switch colors */
   filter: invert(1)
 }
