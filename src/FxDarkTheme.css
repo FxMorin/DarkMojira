@@ -6,6 +6,11 @@ currently its good enough that you shouldn't run into any issues ;)
 Original Dark Theme created by: Fx Morin
 */
 
+/*
+TODO:
+- Make all the colors use a global variables list for easy management, and to create simple color themes
+*/
+
 *:focus {
     outline: none!important; /* nobody likes this */
 }
