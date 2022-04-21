@@ -15,7 +15,7 @@
   "content_scripts": [
     {
       "matches": ["*://bugs.mojang.com/*", "file://*/*"],
-      "css": ["src/FxDarkTheme.css"],
+      "css": ["src/FxDarkTheme.css","src/MojiraFixes.css"],
       "js": ["src/mojiraLogo.js"]
     }
   ]

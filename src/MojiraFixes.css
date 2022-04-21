@@ -1,0 +1,8 @@
+/* Adjust padding which would crop the bottom of the numbers */
+.details-layout .split-view .list-results-panel .count-pagination .pagination {
+    padding: 5px 0px 8px 0px!important;
+}
+/* Padding is too aggressive here, crops the bottom of the numbers. Was 10px for top and bottom before */
+.aui-group .pagination-view .count-pagination .split-view .list-results-panel .count-pagination {
+    padding: 5px 30px 5px 14px!important;
+}
