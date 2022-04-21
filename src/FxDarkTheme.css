@@ -33,7 +33,7 @@ Original Dark Theme created by: Fx Morin
     --aui-link-hover-decoration: underline;
     --aui-link-visited-color: #403294;
 
-    --aui-itemheading-text: #5e6c84;
+    --aui-itemheading-text: #bbb!important; /* #5e6c84 */
     --aui-item-bg: transparent;
     --aui-item-text: #42526e;
     --aui-item-focus-text: #42526e;
@@ -506,7 +506,7 @@ table.aui>tbody>tr.focused {
     border-color: #cfcae7
 }
 .gadget.color7 .dashboard-item-header,.gadget-colors .color7>a {
-    background-color: #5e6c84
+    background-color: #bbb!important; /* #5e6c84 */
 }
 .gadget.color7 .dashboard-item-title {
     color: #252525!important; /* #fff */
