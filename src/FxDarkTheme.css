@@ -640,6 +640,7 @@ blockquote {
 }
 aui-badge, .aui-badge {
     color: #ccc!important; /* #172b4d */
+    background: rgba(100,100,100,0.17)!important;/* rgba(9,30,66,0.13); */
 }
 #confluence-page-search-dialog #search-results-table .title {
     color: #0052cc
