@@ -291,6 +291,13 @@ a {
 a:hover,a:focus,a:active {
     color: #0065ff
 }
+.reports__list__item { /* Fix jira default images being annoying to look at */
+  filter: invert(1);
+  color: #222;
+}
+a .reports__list__item { /* Fix jira default images being annoying to look at */
+  filter: invert(0);
+}
 .aui-list a.active,.aui-list .aui-list-item.active>a {
     color: #252525!important; /* #fff */
 }
