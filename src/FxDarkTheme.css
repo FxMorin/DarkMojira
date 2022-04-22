@@ -213,6 +213,9 @@ TODO:
     background: #2f2f2f!important; /* #fff */
     border-color: #353638!important; /* #ebecf0 */
 }
+dd:hover {
+  background-color: #3e3e3e!important; /* #fff */
+}
 ul.project-issuetypes>li>a {
     color: #42526e
 }
