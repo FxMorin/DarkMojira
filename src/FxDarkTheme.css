@@ -625,6 +625,9 @@ table.aui>tbody>tr.focused {
 .create-issue:focus {
     background: #434343!important; /* inherit */
 }
+.no-results {
+    background-color: #252525!important; /* #fff */
+}
 #confluence-page-search-dialog #search-results-table .title {
     color: #0052cc
 }
