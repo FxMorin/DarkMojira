@@ -6,3 +6,8 @@
 .aui-group .pagination-view .count-pagination .split-view .list-results-panel .count-pagination {
     padding: 5px 30px 5px 14px!important;
 }
+/* Mojang icons are offset */
+.aui-avatar {
+    left: 0px!important;
+    top: 0px!important;
+}
