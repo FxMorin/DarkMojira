@@ -635,6 +635,9 @@ table.aui>tbody>tr.focused {
 blockquote {
     color: #aaa!important; /* #333 */
 }
+aui-badge, .aui-badge {
+    color: #ccc!important; /* #172b4d */
+}
 #confluence-page-search-dialog #search-results-table .title {
     color: #0052cc
 }
