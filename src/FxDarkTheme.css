@@ -295,6 +295,9 @@ a:hover,a:focus,a:active {
   filter: invert(1);
   color: #222;
 }
+.issue-search>.aui-page-header {
+    border-color: #5f5f5f!important; /* #ebecf0 */
+}
 .simple-issue-list .inline-issue-create-container {
     background-color: #504f4f!important; /* #fafbfc */
     border-color: #5f5f5f!important; /* #ebecf0 */
