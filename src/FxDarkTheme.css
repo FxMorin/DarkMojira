@@ -91,7 +91,7 @@ TODO:
     --aui-form-field-border-color: #7d7e82!important; /* #dfe1e6 */;
     --aui-form-field-hover-border-color: #7d7e82!important; /* #dfe1e6 */;
     --aui-form-field-default-text-color: #1a4794!important; /* #172b4d */
-    --aui-form-field-default-bg-color: #504f4f!important; /* #fafbfc */;
+    --aui-form-field-default-bg-color: #504f4f!important; /* #fafbfc */
     --aui-form-field-hover-text-color: var(--aui-form-field-default-text-color);
     --aui-form-field-hover-bg-color: #353638!important; /* #ebecf0 */;
     --aui-form-field-focus-bg-color: #252525!important; /* #fff */
@@ -294,6 +294,10 @@ a:hover,a:focus,a:active {
 .reports__list__item { /* Fix jira default images being annoying to look at */
   filter: invert(1);
   color: #222;
+}
+.simple-issue-list .inline-issue-create-container {
+    background-color: #504f4f!important; /* #fafbfc */
+    border-color: #5f5f5f!important; /* #ebecf0 */
 }
 .aui-list a.active,.aui-list .aui-list-item.active>a {
     color: #252525!important; /* #fff */
