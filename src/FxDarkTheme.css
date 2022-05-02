@@ -469,9 +469,6 @@ table.aui>tbody>tr.focused {
 .g-login.view a:hover,.g-login.view a:focus,.g-login.view a:active {
     color: #0065ff
 }
-#gadget-1 { /* Gadget does not currently work */
-  visibility: hidden!important;
-}
 .gadget.color1 .dashboard-item-header,.gadget-colors .color1>a {
     background-color: #ba1e2b
 }
